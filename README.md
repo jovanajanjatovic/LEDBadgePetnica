@@ -25,6 +25,7 @@ srp:
 
 ## Cilj i opis projekta
 
+
 Cilj projekta je kompletno dizajniranje PCB ploče sa LED diodama u obliku logo-a ISPetnice, gde mikrokontroler omogućava kontrolu nad osvetljenjem pojedinačnih boja.
 
 Izrada prve verzije projekta trajala je od 31.8.2022. do 10.9.2022 na letnjem seminaru elektronike.
@@ -34,6 +35,9 @@ Dizajnirano je sa idejom da se nosi kao bedž, ali to nije limitacija.
 
 Korišćen softver: 
     Proteus 8 professional
+
+
+neki tekst
 
 ## Hardver
 
