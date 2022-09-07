@@ -3,7 +3,7 @@ srpski:
 # Upravljivi LED bedž koji može da kontroliše MCU (Microcontroller unit)
 
 ## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica (http://petnica.rs/).
-
+jhfgwjhcbsjhcgwzjkefwezjkfg
 <---------------------------------------------------->
 Autori projekta:
 
