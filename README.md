@@ -3,22 +3,24 @@ srpski:
 # Upravljivi LED bedž koji može da kontroliše MCU (Microcontroller unit)
 
 ## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica (http://petnica.rs/).
-jhfgwjhcbsjhcgwzjkefwezjkfg
-<---------------------------------------------------->
-Autori projekta:
 
-    Jovana Janjatović:
-        Email: jovana.janjatovic.05@gmail.com
-        Github: https://github.com/jovanajanjatovic
+```markdown
+    <---------------------------------------------------->
+    Autori projekta:
 
-    Mihajlo Ninkov:
-        Email: mih.nin05@gmail.com
-        Github: https://github.com/MihajloNin
+        Jovana Janjatović:
+            Email: jovana.janjatovic.05@gmail.com
+            Github: https://github.com/jovanajanjatovic
 
-    Kosta Jovanović:
-        Email: kosta.jovanovic@gmail.com
-        Github: https://github.com/KostaJovanovic
-<---------------------------------------------------->
+        Mihajlo Ninkov:
+            Email: mih.nin05@gmail.com
+            Github: https://github.com/MihajloNin
+
+        Kosta Jovanović:
+            Email: kosta.jovanovic@gmail.com
+            Github: https://github.com/KostaJovanovic
+    <---------------------------------------------------->
+```
 
 ## Cilj i opis projekta
 
@@ -34,6 +36,7 @@ Korišćen softver:
 
 ## Hardver
 
+```markdown
 Komponente:
     22 LED diode:
         plave: 7 ()
@@ -47,6 +50,8 @@ Komponente:
     3 držača za 3V Dugmaste baterije;
     1 CONN-SIL2 konektor;
     1 CONN-SIL7 konektor;
+```
+
 
 
 
