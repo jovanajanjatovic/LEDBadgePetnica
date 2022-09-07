@@ -2,7 +2,8 @@ srp:
 
 # Upravljivi LED bedž koji može da kontroliše MCU (Microcontroller unit)
 
-## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica (http://petnica.rs/).
+## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica 
+### (http://petnica.rs/).
 
 ```markdown
 <-------------------------------------------------------->
@@ -60,7 +61,8 @@ en:
 
 # LED badge optionally controlled with an MCU
 
-## The description of the LED badge project. Planned and realied in ISPetnica http://petnica.rs/).
+## The description of the LED badge project. Planned and realied in ISPetnica 
+### (http://petnica.rs/).
 
 ```markdown
 <-------------------------------------------------------->
