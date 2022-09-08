@@ -37,8 +37,11 @@ Korišćen softver:
     Proteus 8 professional
 
 
+<<<<<<< HEAD
 neki tekst
 
+=======
+>>>>>>> a5ab7ddcdbc8bef44232190176471d8ec21fa390
 ## Hardver
 
 ```markdown
