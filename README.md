@@ -25,7 +25,7 @@ srp:
 
 ## Cilj i opis projekta
 
-!(images/pipi.png?raw=true "Title")
+![pcb](images/pipi.png?raw=true "Title")
 
 Cilj projekta je kompletno dizajniranje PCB ploče sa LED diodama u obliku logoa IS Petnice, gde mikrokontroler omogućava kontrolu nad osvetljenjem pojedinačnih boja.
 
