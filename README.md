@@ -37,11 +37,6 @@ Korišćen softver:
     Proteus 8 professional
 
 
-<<<<<<< HEAD
-neki tekst
-
-=======
->>>>>>> a5ab7ddcdbc8bef44232190176471d8ec21fa390
 ## Hardver
 
 ```markdown
@@ -60,34 +55,29 @@ Komponente:
     1 CONN-SIL7 konektor;
 ```
 
+### Ideje i planovi:
+
+Potrebno je napraviti kućište od klirita (mlečne plastke), na koje će sa unutrašnje strane biti zalepljeni držači za baterije, sa spoljne prekidač, a prednja strana bi koristila isključivo za difuziju svetla sa dioda.
+
+Trenutni plan je da pošaljemo prvu stabilnu verziju ploče na izradu, kako bismo fizički mogli videti prednosti i mana našeg projekta, kako bismo ga optimizovali za širu proizvodnju.
+
+Krajnji cilj projekta je da LED bedževi budu prodavani u petnici, do čega još uvek imamo dug put pred sobom.
 
 
 
+### unapređenje:
+
+Plan je da prilagodimo napajanje kako bi baterije činile manji udeo bedža.
+Posle prve izrade ploče da ustanovimo prednosti i mane kako bismo imali jasnu sliku stvari koje možda moraju da budu drugačije.
+
+<------>
+<------>
+<------>
 
 en:
 
 # LED badge optionally controlled with an MCU
 
-## The description of the LED badge project. Planned and realied in ISPetnica.
-### http://petnica.rs/
-
-```markdown
-<-------------------------------------------------------->
-    Project Authors:
-
-        Jovana Janjatović:
-            Email: jovana.janjatovic.05@gmail.com
-            Github: https://github.com/jovanajanjatovic
-
-        Mihajlo Ninkov:
-            Email: mih.nin05@gmail.com
-            Github: https://github.com/MihajloNin
-
-        Kosta Jovanović:
-            Email: kosta.jovanovic@gmail.com
-            Github: https://github.com/KostaJovanovic
-<-------------------------------------------------------->
-```
 ## Project description
 
 
@@ -102,23 +92,6 @@ It's designed with the idea of being worn as a badge, but that's not a limitatio
 Used software: 
     Proteus 8 professional
 
-## Hardware used
-
-```markdown
-Components:
-    22 LED diodes:
-        Blue: 7 ()
-        Green: 3 ()
-        Yellow: 5 ()
-        Red: 3 ()
-        Dark blue (closest to purple we could get): 3;
-    5 diodes;
-    19 resistors;
-    5 NPN Bipolar transistors;
-    3 3V coin battery holders;
-    1 CONN-SIL2 connector;
-    1 CONN-SIL7 connector;
-```
 
 
 ```markdown
