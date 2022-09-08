@@ -1,6 +1,6 @@
 srp:
 
-# LED bedž sa mogućom kontrolom od strane MCU (Mikrokontroler)
+# LED bedž sa mogućom kontrolom preko MCU (Mikrokontroler)
 
 ## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica. 
 ### http://petnica.rs/
