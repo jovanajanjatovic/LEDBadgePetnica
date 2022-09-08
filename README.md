@@ -1,6 +1,6 @@
 srp:
 
-# Upravljivi LED bedž koji može da kontroliše MCU (Microcontroller unit)
+# LED bedž sa mogućom kontrolom od strane MCU (Mikrokontroler)
 
 ## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica. 
 ### http://petnica.rs/
@@ -25,21 +25,21 @@ srp:
 
 ## Cilj i opis projekta
 
-Cilj projekta je kompletno dizajniranje PCB ploče sa LED diodama u obliku logo-a ISPetnice, gde mikrokontroler omogućava kontrolu nad osvetljenjem pojedinačnih boja.
+Cilj projekta je kompletno dizajniranje PCB ploče sa LED diodama u obliku logoa IS Petnica, uz mogućnost kontrole krakova spoljnim mikrokontrolerom.
 
-Izrada prve verzije projekta trajala je od 31.8.2022. do 10.9.2022 na letnjem seminaru elektronike.
+Izrada prve verzije projekta trajala je od 31.8.2022. do 10.9.2022 na letnjem seminaru elektronike u IS Petnica.
 Dizajnirano je za okrugli PCB poluprečnika 3cm, koristeći SMD (surface-mounted device) i TH (through-hole) komponente.
 
-Dizajnirano je sa idejom da se nosi kao bedž, ali to nije limitacija.
+Dizajnirano je sa idejom da se nosi kao bedž, ali to nije ograničenje.
 
 Korišćen softver: 
-    Proteus 8 professional
+    Proteus 8 Professional
 
 
 ## Hardver
 
 ```markdown
-Komponente:
+Korišćene komponente:
     22 LED diode:
         plave: 7 ()
         zelene: 3 ()
