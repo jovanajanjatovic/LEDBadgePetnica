@@ -30,19 +30,19 @@ srp:
 
 Cilj projekta je kompletno dizajniranje PCB ploče sa LED diodama u obliku logoa IS Petnice, gde mikrokontroler omogućava kontrolu nad osvetljenjem pojedinačnih boja.
 
-![pcb](images/und kaki.png?raw=true "Title")
+![pcb](images/undkaki.png?raw=true "Title")
 
 Izrada prve verzije projekta trajala je od 31.8.2022. do 10.9.2022 na letnjem seminaru elektronike u IS Petnica.
 Dizajnirano je za okrugli PCB poluprečnika 3cm, koristeći SMD (surface-mounted device) i TH (through-hole) komponente.
 
-![pcb](images/in pipi.png?raw=true "Title")
+![pcb](images/inpipi.png?raw=true "Title")
 
 Dizajnirano je sa idejom da se nosi kao bedž, ali to nije ograničenje.
 
 Korišćen softver: 
     Proteus 8 Professional
 
-![pcb](images/kaka land.png?raw=true "Title")
+![pcb](images/kakaland.png?raw=true "Title")
 
 ## Hardver
 
