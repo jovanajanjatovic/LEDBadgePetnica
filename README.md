@@ -5,6 +5,7 @@ srp:
 ## Ovo je opis projekta LED bedž. Isplaniran, projektovan i realizovan u ISPetnica. 
 ### http://petnica.rs/
 
+
 ```markdown
 <-------------------------------------------------------->
     Autori projekta:
