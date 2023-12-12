@@ -26,24 +26,24 @@ srp:
 
 ## Cilj i opis projekta
 
-![pcb](images/pipi.png?raw=true "Title")
+![pipi](https://github.com/jovanajanjatovic/LEDBadgePetnica/assets/112614758/9321b8b3-9206-46b9-9fe6-f9bde5e60fbb)
 
 
 Cilj projekta je kompletno dizajniranje PCB ploče sa LED diodama u obliku logoa IS Petnice, gde mikrokontroler omogućava kontrolu nad osvetljenjem pojedinačnih boja.
 
-![pcb](images/undkaki.png?raw=true "Title")
+![undkaki](https://github.com/jovanajanjatovic/LEDBadgePetnica/assets/112614758/e6c2f256-ee9c-441f-9824-b4272e1b7169)
 
 Izrada prve verzije projekta trajala je od 31.8.2022. do 10.9.2022 na letnjem seminaru elektronike u IS Petnica.
 Dizajnirano je za okrugli PCB poluprečnika 3cm, koristeći SMD (surface-mounted device) i TH (through-hole) komponente.
 
-![pcb](images/inpipi.png?raw=true "Title")
+![inpipi](https://github.com/jovanajanjatovic/LEDBadgePetnica/assets/112614758/a6213d72-4379-4054-8ca1-62a40c8a9bf4)
 
 Dizajnirano je sa idejom da se nosi kao bedž, ali to nije ograničenje.
 
 Korišćen softver: 
     Proteus 8 Professional
 
-![pcb](images/kakaland.png?raw=true "Title")
+![kakaland](https://github.com/jovanajanjatovic/LEDBadgePetnica/assets/112614758/f19eabce-1ee7-4e0d-a6e9-44e4d058ca1b)
 
 ## Hardver
 
