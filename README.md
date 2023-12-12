@@ -40,8 +40,6 @@ Dizajnirano je za okrugli PCB poluprečnika 3cm, koristeći SMD (surface-mounted
 
 Dizajnirano je sa idejom da se nosi kao bedž, ali to nije ograničenje.
 
-Korišćen softver: 
-    Proteus 8 Professional
 
 ![kakaland](https://github.com/jovanajanjatovic/LEDBadgePetnica/assets/112614758/f19eabce-1ee7-4e0d-a6e9-44e4d058ca1b)
 
@@ -97,8 +95,6 @@ It is designed for a round PCB with a radius of 3cm, using SMD (surface-mounted 
 
 It's designed with the idea of being worn as a badge, but that's not a limitation.
 
-Used software: 
-    Proteus 8 professional
 
    
 
